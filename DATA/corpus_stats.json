@@ -1,0 +1,20 @@
+{
+  "total_plays": 7381,
+  "avg_text_length": 321.59097683240753,
+  "play_types": {
+    "PASS": 4931,
+    "RUSH": 2069,
+    "SCRAMBLE": 178,
+    "SACK": 189,
+    "TWO-POINT CONVERSION": 7,
+    "RUN": 4,
+    "NO PLAY": 3
+  },
+  "formations": {
+    "null": 2239,
+    "UNDER CENTER": 1385,
+    "SHOTGUN": 3403,
+    "NO HUDDLE SHOTGUN": 305,
+    "NO HUDDLE": 49
+  }
+}
